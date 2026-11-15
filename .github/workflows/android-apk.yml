@@ -42,4 +42,3 @@ jobs:
         with:
           name: Mahindra-Service-APK
           path: source/mahindra_service_android/app/build/outputs/apk/debug/app-debug.apk
-          
